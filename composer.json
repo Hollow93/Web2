@@ -1,0 +1,12 @@
+{
+    "name": "hollow93/web2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Владислав Львович Быконь",
+            "email": "Hollow-oren@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

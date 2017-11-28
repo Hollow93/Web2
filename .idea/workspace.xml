@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="259a72fc-82bc-4ee2-9bb1-4236b87cc653" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/MyGameTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Web2.iml" afterPath="$PROJECT_DIR$/.idea/Web2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/MyGameTest.php" afterPath="$PROJECT_DIR$/tests/MyGameTest.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,24 +40,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyGameTest.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyGameTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/MyGameTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="212">
+              <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
               <folding>
                 <element signature="e#126#151#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyGame.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyGame.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Game.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -105,8 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/MyGame.php" />
-        <option value="$PROJECT_DIR$/tests/MyGameTest.php" />
         <option value="$PROJECT_DIR$/src/Game.php" />
+        <option value="$PROJECT_DIR$/tests/MyGameTest.php" />
       </list>
     </option>
   </component>
@@ -296,47 +283,47 @@
       <updated>1511698293513</updated>
       <workItem from="1511698295248" duration="810000" />
       <workItem from="1511786185805" duration="5066000" />
-      <workItem from="1511895805158" duration="1311000" />
+      <workItem from="1511895805158" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2017.11.29 at 00h 13m 41s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 14m 09s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 15m 53s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 16m 24s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 16m 27s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 17m 47s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 18m 00s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.29 at 00h 19m 52s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="Unnamed - 2017.11.29 at 00h 23m 26s.xml">
       <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
     <history-entry file="Unnamed - 2017.11.29 at 00h 23m 39s.xml">
       <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 28m 43s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 29m 02s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 29m 14s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 29m 20s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 29m 41s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 29m 49s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 30m 02s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.29 at 00h 30m 43s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11941000" />
+    <option name="totallyTimeSpent" value="12349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1618" height="1062" extended-state="1" />
+    <frame x="-8" y="-8" width="1618" height="1062" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25609756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -344,7 +331,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -656,29 +643,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyGame.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/MyGameTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="212">
+          <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
           <folding>
             <element signature="e#126#151#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -78,6 +78,15 @@ class MyGameTest extends TestCase
         self::assertEquals(66, $scorse);
     }
 
+//    public function testFullTen()
+//    {
+//        $input = new MyGame;
+//        $attempts = 10;
+//        $pins = array(10, 10, 10, 10, 10, 10, 10, 10, 10, 10);
+//        $scorse = $input->getSumAll($pins, $attempts);
+//        self::assertEquals(300, $scorse);
+//    }
+
     /**
      * @return int
      */

@@ -12,6 +12,7 @@ class MyGame
 
     public function getSumAll($scorse, $attempts)
     {
+        array_push($scorse,0);
         $isSpare = 0;
         $isStrike = 0;
         for ($i = 0; $i < $attempts - 1; $i++) {

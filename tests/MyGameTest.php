@@ -69,6 +69,15 @@ class MyGameTest extends TestCase
         self::assertEquals(58, $scorse);
     }
 
+    public function testFullEnd()
+    {
+        $input = new MyGame;
+        $attempts = 17;
+        $pins = array(1, 1, 1, 1, 4, 6, 1, 1, 1, 1, 10, 10, 1, 1, 1, 1, 10);
+        $scorse = $input->getSumAll($pins, $attempts);
+        self::assertEquals(66, $scorse);
+    }
+
     /**
      * @return int
      */

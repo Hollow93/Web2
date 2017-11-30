@@ -20,7 +20,7 @@ class MyGame
             if ($scorse[$i] + $scorse[$i+1] === 10)
             {
                 $isSpare += $scorse[$i+2];
-               // $i+= 2;
+                $i+= 2;
 
             }
         }

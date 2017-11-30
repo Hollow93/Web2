@@ -37,9 +37,9 @@ class MyGameTest extends TestCase
     {
         $input = new MyGame;
         $attempts = 20 ;
-        $pins= array(4,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
+        $pins= array(4,6,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
         $scorse = $input->getSumAll($this->getScorse($attempts,$pins));
-        self::assertEquals(29,$scorse);
+        self::assertEquals(35,$scorse);
     }
 
     private function getScorse($attempts, $pins)

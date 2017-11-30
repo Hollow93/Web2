@@ -19,7 +19,7 @@ class MyGameTest extends TestCase
     {
         $input = new MyGame;
         $attempts = 20 ;
-        $pins[]= array(0,0,0,0,0,0,0,0,0,0,0,0);
+        $pins= array(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
         $scorse = $input->getSumAll($this->getScorse($attempts,$pins));
         self::assertEquals(0,$scorse);
     }
@@ -28,7 +28,7 @@ class MyGameTest extends TestCase
     {
         $input = new MyGame;
         $attempts = 20 ;
-        $pins= 20;
+        $pins= array(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
         $scorse = $input->getSumAll($this->getScorse($attempts,$pins));
         self::assertEquals(20,$scorse);
     }

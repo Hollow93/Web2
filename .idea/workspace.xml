@@ -24,8 +24,8 @@
       <file leaf-file-name="MyGameTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/MyGameTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-185">
-              <caret line="22" column="79" lean-forward="false" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+            <state relative-caret-position="493">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="e#126#151#0#PHP" expanded="true" />
               </folding>
@@ -36,8 +36,8 @@
       <file leaf-file-name="MyGame.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyGame.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+            <state relative-caret-position="552">
+              <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -271,24 +271,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2017.11.30 at 20h 16m 13s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.30 at 20h 17m 18s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.30 at 20h 17m 20s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.30 at 20h 17m 27s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.30 at 20h 29m 52s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Unnamed - 2017.11.30 at 20h 32m 35s.xml">
-      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="Unnamed - 2017.11.30 at 20h 35m 06s.xml">
       <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -301,9 +283,27 @@
     <history-entry file="Unnamed - 2017.11.30 at 20h 42m 45s.xml">
       <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 45m 37s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 48m 41s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 50m 24s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 53m 25s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 53m 40s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Unnamed - 2017.11.30 at 20h 54m 10s.xml">
+      <configuration name="Unnamed" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21633000" />
+    <option name="totallyTimeSpent" value="22316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1618" height="1062" extended-state="0" />
@@ -355,7 +355,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="phpunit">
@@ -728,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/MyGameTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="22" column="79" lean-forward="false" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+        <state relative-caret-position="493">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="e#126#151#0#PHP" expanded="true" />
           </folding>
@@ -738,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyGame.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        <state relative-caret-position="552">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
           <folding />
         </state>
       </provider>

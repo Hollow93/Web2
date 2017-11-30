@@ -35,11 +35,5 @@ class MyGame
             return $scorse;
         }
     }
-
-
-    public function isSpare($index,$index2)
-    {
-        return $index + $index2 === 10;
-    }
-
+    
 }

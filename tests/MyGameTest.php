@@ -20,7 +20,7 @@ class MyGameTest extends TestCase
         $input = new MyGame;
         $attempts = 20 ;
         $pins= array(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
-        $scorse = $input->getSumAll($this->getScorse($attempts,$pins),$attempts);
+        $scorse = $input->getSumAll($pins,$attempts);
         self::assertEquals(0,$scorse);
     }
 
@@ -29,7 +29,7 @@ class MyGameTest extends TestCase
         $input = new MyGame;
         $attempts = 20 ;
         $pins= array(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
-        $scorse = $input->getSumAll($this->getScorse($attempts,$pins),$attempts);
+        $scorse = $input->getSumAll($pins,$attempts);
         self::assertEquals(20,$scorse);
     }
 
@@ -38,7 +38,7 @@ class MyGameTest extends TestCase
         $input = new MyGame;
         $attempts = 20 ;
         $pins= array(4,6,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
-        $scorse = $input->getSumAll($this->getScorse($attempts,$pins),$attempts);
+        $scorse = $input->getSumAll($pins,$attempts);
         self::assertEquals(35,$scorse);
     }
 
@@ -47,29 +47,18 @@ class MyGameTest extends TestCase
         $input = new MyGame;
         $attempts = 19 ;
         $pins= array(10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
-        $scorse = $input->getSumAll($this->getScorse($attempts,$pins),$attempts);
+        $scorse = $input->getSumAll($pins,$attempts);
         self::assertEquals(30,$scorse);
-
     }
 
-    private function getScorse($attempts, $pins)
+    public function testTwoStrike()
     {
-        for($i=0; $i<$attempts; $i++)
-        {
-            if (is_array($pins))
-            {
-
-
-                $scorse[] = $pins;
-
-            }
-
-            $scorse = $pins;
-        }
-        return $scorse;
+        $input = new MyGame;
+        $attempts = 18 ;
+        $pins= array(10,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
+        $scorse = $input->getSumAll($pins,$attempts);
+        self::assertEquals(49,$scorse);
     }
-
-
 
     /**
      * @return int

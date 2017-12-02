@@ -6,19 +6,14 @@ namespace Hollow93\Web2;
 
 class MyGame
 {
-    private $frame;
-    private $scorse;
-
-
     public function getSumAll($scorse, $attempts)
     {
-        array_push($scorse,0);
         $isSpare = 0;
         $isStrike = 0;
         for ($i = 0; $i < $attempts - 1; $i++) {
             if ($this->isSpare($scorse, $i)) {
                 $isSpare += $scorse[$i + 2];
-                $i += 2;
+                $i += 1;
             }
             if ($this->isStrike($scorse, $i)) {
                 $isStrike += $scorse[$i + 1] + $scorse[$i + 2];

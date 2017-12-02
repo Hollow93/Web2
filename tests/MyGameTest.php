@@ -87,14 +87,14 @@ class MyGameTest extends TestCase
         self::assertEquals(300, $scorse);
     }
 
-//    public function testForExample()
-//    {
-//        $input = new MyGame;
-//        $attempts = 10;
-//        $pins = array(10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10);
-//        $scorse = $input->getSumAll($pins, $attempts);
-//        self::assertEquals(300, $scorse);
-//    }
+    public function testForExample()
+    {
+        $input = new MyGame;
+        $attempts = 17;
+        $pins = array(1, 4, 4, 5, 6, 4, 5, 5, 10, 0, 1, 7, 3, 6, 4, 10, 2, 8, 6);
+        $scorse = $input->getSumAll($pins, $attempts);
+        self::assertEquals(133, $scorse);
+    }
 
     /**
      * Bowling Kata Game
